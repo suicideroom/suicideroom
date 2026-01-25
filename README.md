@@ -1,6 +1,6 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=⋈&color=000000&style=plastic&base=1000"> </dir> </p>
   
-  <p align="center">ㅤ <img src="https://i.pinimg.com/736x/68/89/6f/68896fd3391ce48bbfb674d766707acb.jpg" width=400 height=600>ㅤ</p>
+  <p align="center">ㅤ <img src="https://files.catbox.moe/ys7e0i.png" width=400 height=600>ㅤ</p>
 
   <p align="center"> <sub>ㅤheㅤ/ㅤhimㅤ🦴ㅤsys </sub>   </p>
 

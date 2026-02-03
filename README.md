@@ -1,8 +1,7 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=⋈&color=000000&style=plastic&base=1000"> </dir> </p>
   
-  <p align="center">ㅤ <img src="https://i.postimg.cc/6q2tZMys/23.png" width=400 height=600>ㅤ</p>
+  <p align="center">ㅤ <img src="https://64.media.tumblr.com/dad12e542f923031f6b86d39167ab736/c21f9a3c7987f3ab-7c/s400x600/7964a896788943b919d53b7b7d4730fa633d5736.pnj" width=400 height=600>ㅤ</p>
 
- <p align="center"> <a href="https://rentry.co/rydean">♡</a>
 
 <p align="center" dir="auto"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dnbrq33dernxlkwbvsoee7w6py&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f4f2ec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" height="40" width="150"> </p>
 
@@ -14,6 +13,6 @@
 <br>
   <sub> i block freely idgaf!!!!!! </sub>
 
-  <img src="https://64.media.tumblr.com/6090008171986ca65732b1248ae7b2d3/7d5db8110b6d7db9-df/s1280x1920/0efbe166cad44fdd5013b55b61583620fd8353df.pnj" width=200 height=300>
+  <img src="https://64.media.tumblr.com/56580afdf7faf3d96a26c72f7c9b8e78/ae479d3680056bc5-d3/s1280x1920/8d40408ea2ee42f32a396a1d08458e998d79eb60.pnj" width=200 height=300>
     
 

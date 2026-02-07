@@ -1,6 +1,6 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=⋈&color=000000&style=plastic&base=1000"> </dir> </p>
   
-  <p align="center">ㅤ <img src="https://64.media.tumblr.com/c042e7de9de0327f3e1d24a728cf8ed9/521398d9fdafd883-b4/s540x810/9d58edd6616ae415ff88753a1ba179037a44f050.pnj" width=400 height=600>ㅤ</p>
+  <p align="center">ㅤ <img src="https://files.catbox.moe/sofg1w.png" width=400 height=600>ㅤ</p>
 
 
 <p align="center" dir="auto"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dnbrq33dernxlkwbvsoee7w6py&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f4f2ec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" height="40" width="150"> </p>

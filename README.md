@@ -13,6 +13,6 @@
 <br>
   <sub> i block freely idgaf!!!!!! </sub>
 
-  <img src="https://64.media.tumblr.com/56580afdf7faf3d96a26c72f7c9b8e78/ae479d3680056bc5-d3/s1280x1920/8d40408ea2ee42f32a396a1d08458e998d79eb60.pnj" width=200 height=300>
+  <img src="https://64.media.tumblr.com/76643b5af7f0dbd1f3f7a1e6771d0def/960d478f8896a53a-92/s100x200/df8ab2148b74a2c5e6fc049d7bbbf4a40781a211.pnj" width=200 height=300>
     
 

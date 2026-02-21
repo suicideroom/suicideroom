@@ -1,6 +1,6 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=kitteys&color=4a4c8a&style=flat&base=1000"> </dir> </p>
   
-  <p align="center">ㅤ <img src="https://64.media.tumblr.com/0630e156d5c263aaab282f6213eb8a0d/10876e85d05d36b2-df/s75x75_c1/c279ef6e0a5ff7ee5ac77787e9b132edc9a8f435.gifv" width=400 height=600>ㅤ</p>
+  <p align="center">ㅤ <img src="https://64.media.tumblr.com/a5f6c73209b9c70e8419f0d60594ee70/b56b9ab14898b755-71/s400x600/aaa34cc747ba25721f8eaaa1c1d335db37958007.pnj" width=400 height=600>ㅤ</p>
 
  <p align="center"> <sub> @destielism = lil twig boi.. wind blows him away! </sub>
 
